@@ -1,7 +1,7 @@
 ---
 title: "AWS serverless search application"
 
-date: 2020-09-15T11:30:03+00:00
+date: 2023-09-25T11:30:03+00:00
 toc : true
 # weight: 1
 # aliases: ["/first"]
