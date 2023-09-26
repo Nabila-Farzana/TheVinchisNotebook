@@ -133,7 +133,7 @@ __A crucial point to emphasize is that if you require exact, strict matching for
 
 Following the execution of this command, an index will be created, and the next step is to populate it with trip data, which will serve as the source for our trip searches.
 
-### Step-2: Our next step involves transmitting data from the trip table, utilizing DynamoDB DataStream, to populate the OpenSearch trip-index.
+### Step-2: Our next step involves transmitting data from the trip table utilizing DynamoDB DataStream to populate the OpenSearch trip-index.
 
 We will now activate the DynamoDB table stream for the trip table and configure the DDB_stream_to_ES Lambda function as its trigger.
 ![Turn on stream ](images/db_stream.webp)
