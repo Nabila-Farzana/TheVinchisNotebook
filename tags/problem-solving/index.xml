@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>A chitchat about new learnings</title>
-    <link>https://Nabila-Farzana.github.io/ThevinchisNotebook/</link>
-    <description>Recent content on A chitchat about new learnings</description>
+    <title>Problem Solving on A chitchat about new learnings</title>
+    <link>https://Nabila-Farzana.github.io/ThevinchisNotebook/tags/problem-solving/</link>
+    <description>Recent content in Problem Solving on A chitchat about new learnings</description>
     <image>
       <title>A chitchat about new learnings</title>
       <url>https://Nabila-Farzana.github.io/ThevinchisNotebook/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
@@ -11,7 +11,7 @@
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 04 Oct 2023 11:30:03 +0000</lastBuildDate><atom:link href="https://Nabila-Farzana.github.io/ThevinchisNotebook/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 04 Oct 2023 11:30:03 +0000</lastBuildDate><atom:link href="https://Nabila-Farzana.github.io/ThevinchisNotebook/tags/problem-solving/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>How I solved leetcode problem: Two Sum</title>
       <link>https://Nabila-Farzana.github.io/ThevinchisNotebook/docs/leetcode_two_sum/</link>
@@ -19,15 +19,6 @@
       
       <guid>https://Nabila-Farzana.github.io/ThevinchisNotebook/docs/leetcode_two_sum/</guid>
       <description>How to solve two sum in a optimized way!</description>
-    </item>
-    
-    <item>
-      <title>AWS serverless search application</title>
-      <link>https://Nabila-Farzana.github.io/ThevinchisNotebook/docs/aws-serverless-elastic-search/</link>
-      <pubDate>Mon, 25 Sep 2023 11:30:03 +0000</pubDate>
-      
-      <guid>https://Nabila-Farzana.github.io/ThevinchisNotebook/docs/aws-serverless-elastic-search/</guid>
-      <description>How to build a search application with Amazon Opensearch Serverless, Dynamodb and AWS lambda in a serverless manner</description>
     </item>
     
   </channel>
