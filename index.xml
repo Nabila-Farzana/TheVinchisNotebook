@@ -13,12 +13,21 @@
     <language>en-us</language>
     <lastBuildDate>Wed, 04 Oct 2023 11:30:03 +0000</lastBuildDate><atom:link href="https://Nabila-Farzana.github.io/ThevinchisNotebook/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>How I solved leetcode problem: Majority Element</title>
+      <link>https://Nabila-Farzana.github.io/ThevinchisNotebook/docs/leetcode_majority_element/</link>
+      <pubDate>Wed, 04 Oct 2023 11:30:03 +0000</pubDate>
+      
+      <guid>https://Nabila-Farzana.github.io/ThevinchisNotebook/docs/leetcode_majority_element/</guid>
+      <description>How to solve Majority Element problem in an optimized way!</description>
+    </item>
+    
+    <item>
       <title>How I solved leetcode problem: Two Sum</title>
       <link>https://Nabila-Farzana.github.io/ThevinchisNotebook/docs/leetcode_two_sum/</link>
       <pubDate>Wed, 04 Oct 2023 11:30:03 +0000</pubDate>
       
       <guid>https://Nabila-Farzana.github.io/ThevinchisNotebook/docs/leetcode_two_sum/</guid>
-      <description>How to solve two sum in a optimized way!</description>
+      <description>How to solve two sum in an optimized way!</description>
     </item>
     
     <item>
