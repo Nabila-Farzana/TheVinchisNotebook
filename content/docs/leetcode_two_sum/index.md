@@ -14,7 +14,7 @@ TocOpen: false
 draft: false
 hidemeta: false
 comments: false
-description: "How to solve two sum in a optimized way!"
+description: "How to solve two sum in an optimized way!"
 canonicalURL: "https://canonical.url/to/page"
 disableHLJS: true # to disable highlightjs
 disableShare: false

@@ -6,3 +6,4 @@
 
 - ### Problem Solving
     - [How I solved leetcode problem: Two Sum](https://nabila-farzana.github.io/ThevinchisNotebook/docs/leetcode_two_sum/)
+    - [How I solved leetcode problem: Majority Element](https://nabila-farzana.github.io/ThevinchisNotebook/docs/leetcode_majority_element/)
