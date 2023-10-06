@@ -18,7 +18,7 @@ minify:
 params:
   env: production # to enable google analytics, opengraph, twitter-cards and schema.
   title: The Vinchi's Notebook
-  description: "ExampleSite description"
+  description: "Welcome to The Vinchi's Notebook. A chitchat about new learnings."
 
   author: Nabila Farzana
   # author: ["Me", "You"] # multiple authors
