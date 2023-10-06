@@ -46,8 +46,8 @@ __Follow-up__: Could you solve the problem in linear time and in O(1) space?
 ### How to solve it:
 To solve this problem, the easiest way could be:  
 First sorting the array and as the definition of majority element is: the element which appears more than n/2
-times in the array, so it should appear in the middle of the array. So, The next step is to find out the middle elemnt of that sorted array. That's it! 
-But there is a problem,  The time complexity should be lenear, but if we use sorting algorithm then the time complexity will be O(nlogn)
+times in the array, so it should appear in the middle of the array. So, The next step is to find out the middle element of that sorted array. That's it! 
+But there is a problem,  The time complexity should be linear, but if we use sorting algorithm then the time complexity will be O(nlogn)
 
 So, let's find out an optimal solution!
 
@@ -61,7 +61,7 @@ We will maintain a variable to store the winner and another variable will hold t
 
 first we will set 0 for both variables:
 
-winner = 0
+winner = 0  
 vote_difference = 0
 
 Now starting from the first element of the array, which is 2, till now I don't know about the rest of the array, So I got one vote for '2', and set the winner to 2. As till now only one vote casted for '2', hence  the vote_difference is 1
@@ -82,7 +82,7 @@ So now there is no vote difference and next element is 1. we will set '1' as win
 next element is 2, now we see opponent '2' got one vote, so we are decreasing vote_difference by one and again vote difference is 0 and winner remains same
 ![voting6](images/voting6.png)
 
-And finally the last element which is 2. So we got a vote for '2', So setting the winner as 2 and increase the vote_difference by one. So we go our winner which is '2' and s/he won by 1 vote!
+And finally the last element which is 2. So we got a vote for '2', So setting the winner as 2 and increase the vote_difference by one. So we got our winner which is '2' and s/he won by 1 vote!
 ![voting7](images/voting7.png)
 
 __Now let's come up with the code__
