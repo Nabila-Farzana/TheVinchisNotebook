@@ -1,5 +1,5 @@
 ---
-title: "How I solved leetcode problem: Two Sum"
+title: "Leetcode problem: Two Sum"
 
 date: 2023-10-04T11:30:03+00:00
 toc : true

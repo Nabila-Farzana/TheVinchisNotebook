@@ -1,5 +1,5 @@
 ---
-title: "How I solved leetcode problem: Majority Element"
+title: "Leetcode problem: Majority Element"
 
 date: 2023-10-04T11:30:03+00:00
 toc : true
