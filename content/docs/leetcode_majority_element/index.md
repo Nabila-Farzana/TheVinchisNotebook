@@ -95,7 +95,7 @@ int majorityElement(vector<int>& nums){
         if(vote_difference == 0){
             winner = num
         }
-        if(num == wimmer)vote_difference++;
+        if(num == winner)vote_difference++;
         else vote_difference--;
     }
     return winner;

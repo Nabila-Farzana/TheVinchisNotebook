@@ -64,7 +64,7 @@ Now, we will execute an loop from 1 to (the size of the array + 1) and for each 
 __Now let's do the coding part__
 
 ```cpp
-int firstMissingPositive(vector<int> nums){
+int firstMissingPositive(vector <int> &nums){
     unordered_set<int> bucket(nums.begin(), nums.end());
     for(int num = 1; num <= nums.size()+1; num++){
         if(bucket.count(num) == 0){
