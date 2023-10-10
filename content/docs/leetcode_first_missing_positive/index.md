@@ -75,4 +75,4 @@ int firstMissingPositive(vector <int> &nums){
 }
 ```
 ### The Time and Space Complexity :
-The time complexity is __O(n)__ and the space complexity is __O(1)__
+The time complexity is __O(n)__ and the space complexity is __O(n)__
