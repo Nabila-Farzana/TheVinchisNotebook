@@ -73,6 +73,8 @@ params:
       url: "https://github.com/Nabila-Farzana"
     - name: linkedin
       url: "https://www.linkedin.com/in/nabilafarzana/"
+    - name: leetcode
+      url: "https://leetcode.com/Nabila-Farzana/"
   # analytics:
   #   google:
   #     SiteVerificationTag: "XYZabc"
